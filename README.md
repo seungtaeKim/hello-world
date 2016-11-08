@@ -1,2 +1,3 @@
 # hello-world
-Just another Repository
+
+Hi! I'm a Koreatech student. 
